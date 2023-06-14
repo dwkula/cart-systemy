@@ -1,5 +1,4 @@
 numpy>=1.24.2
 pandas
-plotly
-graphviz
+seaborn
 sklearn
